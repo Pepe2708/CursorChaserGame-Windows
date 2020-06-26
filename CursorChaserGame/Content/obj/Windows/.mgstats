@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bomb.png","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/bomb.xnb","TextureProcessor","Texture2DContent",144,1109,0,1031561
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/chaser.png","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/chaser.xnb","TextureProcessor","Texture2DContent",186,1381,0,0059815
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/File.spritefont","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/File.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,1536259
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/nailboard.png","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/nailboard.xnb","TextureProcessor","Texture2DContent",19883,15445,0,0119686
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/player.png","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/player.xnb","TextureProcessor","Texture2DContent",158,1109,0,005984
+"C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/rocket.png","C:/Users/Pepe/source/repos/CursorChaserGame/CursorChaserGame/Content/bin/Windows/rocket.xnb","TextureProcessor","Texture2DContent",204,4181,0,0079787
