@@ -4,7 +4,7 @@ The CursorChaserGame is a game where the AI opponent tries to catch your cursor,
 
 ## Getting Started
 
-Download [this folder](CursorChaserGame/publish) and run the setup.
+Download [CursorChaserGame.zip](https://github.com/Pepe2708/CursorChaserGame-Windows/files/4910088/CursorChaserGame.zip) and run the setup.
 
 ## Built With
 
