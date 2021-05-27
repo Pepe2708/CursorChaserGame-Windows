@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/My Drive/CCG/CCG/Content/chaser.png","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/chaser.xnb","TextureProcessor","Texture2DContent",15142,4181,0,2208003
+"G:/My Drive/CCG/CCG/Content/nailboard.png","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/nailboard.xnb","TextureProcessor","Texture2DContent",14774,92245,0,0686133
+"G:/My Drive/CCG/CCG/Content/player.png","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/player.xnb","TextureProcessor","Texture2DContent",244,4181,0,0341035
+"G:/My Drive/CCG/CCG/Content/rocket.png","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/rocket.xnb","TextureProcessor","Texture2DContent",193,4181,0,0257532
+"G:/My Drive/CCG/CCG/Content/Score.spritefont","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,267298,0,1538705
+"G:/My Drive/CCG/CCG/Content/start.png","G:/My Drive/CCG/CCG/Content/bin/Windows/Content/start.xnb","TextureProcessor","Texture2DContent",54413,2073685,0,0907167

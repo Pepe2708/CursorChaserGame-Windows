@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCG.Bomb" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgACAAADgAAAAAgEAAAAAAAAAQAAYAAIAAAABA=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Chaser" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSAAAIAAgAABgABAAEAAAAABAIAAAAIAAAgBAACkAA=</HashCode>
+      <FileName>Chaser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.CollidableObject" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAUMAAAAAgAABoAiAACAIAQAECQQAgAIVAIAAAoQEhA=</HashCode>
+      <FileName>CollidableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.EventTrigger" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAARAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Globals" Collapsed="true">
+    <Position X="27" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAJAAAAhEAAgAAAAAAAACARAAAAAAAAgAQAAAAAA=</HashCode>
+      <FileName>Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.GUI" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAQgAwQAEAAIQICgMIAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Nailboard" Collapsed="true">
+    <Position X="20.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Nailboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Player" Collapsed="true">
+    <Position X="22.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Rocket" Collapsed="true">
+    <Position X="18.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAIAACAAA=</HashCode>
+      <FileName>Rocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.Weapon" Collapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCG.NetworkClient" Collapsed="true">
+    <Position X="27" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAIAAAIAAAgAAAAAAACAAJA=</HashCode>
+      <FileName>NetworkClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
