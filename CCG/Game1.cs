@@ -108,7 +108,7 @@ namespace CCG
 
             player.Draw(_spriteBatch);
 
-            if (GUI.gameIsActive)
+            if (GUI.gameIsActive  || player.IsAlive && GUI.score > 0)
             {
                 chaser.Draw(_spriteBatch);
                 nailboard.Draw(_spriteBatch);
